@@ -31,7 +31,7 @@ The project includes Tasks 2–20:
 | 19 | Numerical optimization | [Task_19_optimization.py](./Task_19_optimization.py) |
 | 20 | Random numbers and Monte Carlo methods | [Task_20_monte_carlo.py](./Task_20_monte_carlo.py) |
 
-## Requirements
+## The Requirements
 
 - Python 3.10 or newer
 - NumPy
